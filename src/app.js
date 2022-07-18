@@ -23,5 +23,4 @@ function App (props) {
     </Provider>
   )
 }
-
 export default App
