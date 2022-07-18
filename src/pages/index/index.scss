@@ -1,0 +1,8 @@
+.page-index {
+    .page-index-content {
+        width: 100vw;
+        height: calc(100vh - 150px);
+        border: 1px solid red;
+        overflow-y: auto;
+    }
+}
